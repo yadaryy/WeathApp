@@ -1,9 +1,3 @@
-//
-//  BarChartsDescView.swift
-//  Weath App
-//
-//  Created by Yadar Tulayathamrong on 15/5/2566 BE.
-//
 
 import SwiftUI
 

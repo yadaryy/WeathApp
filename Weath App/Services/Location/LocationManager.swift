@@ -1,9 +1,4 @@
-//
-//  LocationManager.swift
-//  Weath App
-//
-//  Created by Setthasit Poosawat on 3/4/23.
-//
+
 
 import Foundation
 import CoreLocation

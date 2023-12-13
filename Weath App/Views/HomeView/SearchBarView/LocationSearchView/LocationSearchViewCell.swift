@@ -1,9 +1,4 @@
-//
-//  LocationSearchViewCell.swift
-//  Weath App
-//
-//  Created by Yadar Tulayathamrong on 9/3/2566 BE.
-//
+
 
 import SwiftUI
 

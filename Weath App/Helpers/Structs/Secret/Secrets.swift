@@ -1,9 +1,4 @@
-//
-//  Secret.swift
-//  Weath App
-//
-//  Created by Setthasit Poosawat on 15/5/23.
-//
+
 
 import Foundation
 

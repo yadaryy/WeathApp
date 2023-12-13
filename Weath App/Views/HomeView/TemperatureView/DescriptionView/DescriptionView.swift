@@ -1,9 +1,3 @@
-//
-//  DescriptionView.swift
-//  Weath App
-//
-//  Created by Yadar Tulayathamrong on 3/5/2566 BE.
-//
 
 import SwiftUI
 import AVFoundation

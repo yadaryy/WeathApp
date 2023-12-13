@@ -1,9 +1,4 @@
-//
-//  WeatherView.swift
-//  Weath App
-//
-//  Created by Yadar Tulayathamrong on 4/4/2566 BE.
-//
+
 
 import SwiftUI
 

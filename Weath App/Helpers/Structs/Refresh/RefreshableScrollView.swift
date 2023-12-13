@@ -1,9 +1,4 @@
-//
-//  RefreshableScrollView.swift
-//  Weath App
-//
-//  Created by Setthasit Poosawat on 11/5/23.
-//
+
 
 import SwiftUI
 import UIKit

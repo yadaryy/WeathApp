@@ -1,9 +1,4 @@
-//
-//  AirQualityViewModel.swift
-//  Weath App
-//
-//  Created by Setthasit Poosawat on 21/3/23.
-//
+
 
 import SwiftUI
 

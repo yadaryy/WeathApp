@@ -1,9 +1,3 @@
-//
-//  WeatherModel.swift
-//  Weath App
-//
-//  Created by Setthasit Poosawat on 7/3/23.
-//
 
 import Foundation
 

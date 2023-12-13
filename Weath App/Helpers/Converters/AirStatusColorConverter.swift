@@ -1,9 +1,4 @@
-//
-//  AirStatusColorConverter.swift
-//  Weath App
-//
-//  Created by Yadar Tulayathamrong on 3/5/2566 BE.
-//
+
 
 import Foundation
 import SwiftUI

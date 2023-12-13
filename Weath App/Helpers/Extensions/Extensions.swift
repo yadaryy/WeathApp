@@ -1,9 +1,3 @@
-//
-//  Extensions.swift
-//  Weath App
-//
-//  Created by Yadar Tulayathamrong & Setthasit Poosawat on 3/3/2566 BE.
-//
 
 import SwiftUI
 

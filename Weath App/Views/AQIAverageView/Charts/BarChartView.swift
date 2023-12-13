@@ -1,9 +1,3 @@
-//
-//  BarChartView.swift
-//  Weath App
-//
-//  Created by Setthasit Poosawat on 2/5/23.
-//
 
 import SwiftUI
 import Charts
